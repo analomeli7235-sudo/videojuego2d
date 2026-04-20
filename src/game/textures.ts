@@ -1,4 +1,4 @@
-import Phaser from "phaser";
+import * as Phaser from "phaser";
 
 // Genera todas las texturas del juego programáticamente para garantizar
 // coherencia visual y evitar dependencias de spritesheets externos.

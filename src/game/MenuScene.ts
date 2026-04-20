@@ -1,4 +1,4 @@
-import Phaser from "phaser";
+import * as Phaser from "phaser";
 import { generateTextures } from "./textures";
 import { loadSave } from "./storage";
 
